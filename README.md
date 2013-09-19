@@ -29,4 +29,7 @@ $b
 		));
 	})
 
+// init Bonsai and we are off 
+$b->execute();
+
 ```
